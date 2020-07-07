@@ -5,15 +5,14 @@
     text-decoration: none;
 }
 html, body {
-  width: 100%;
+  width: auto;
   height: auto;
-  background-color: #DCDCDC;
 }
 .navbar{
     box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
 }
 body{
-  background-image: url(back1.jpg);
+  background-image: url(img/back1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -139,10 +138,7 @@ body{
 .dxk13{
   background-image: url(C:/MAMP/htdocs/naush3.jpg);
 }
-a{
-  color: white;
-  transition: 1s;
-}
+
 .mxk2{
   background-image: url(C:/MAMP/htdocs/q6600.png);
 }
@@ -190,4 +186,36 @@ a{
 }
 .bbmp{
   background-color: yellow;
+}
+.bmw{
+  background-color: #c8c8c8;
+}
+.ts{
+  margin-left: 3%;
+  background-color: #c8c8c8;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+  border-radius: 5px;
+}
+.merch{
+  margin-top: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+}
+.gts{
+  margin-top: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+}
+.mxt{
+  width:auto;
+}
+.mxkt{
+  color: white;
+  transition: 1s;
+}
+a{
+  color: black;
+  transition: 1s;
 }
